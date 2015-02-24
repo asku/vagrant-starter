@@ -1,0 +1,4 @@
+base:
+  '*':
+    - arcanist
+    - project
